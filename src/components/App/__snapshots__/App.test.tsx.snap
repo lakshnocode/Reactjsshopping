@@ -19,7 +19,7 @@ Object {
         <a
           aria-label="View source on Github"
           class="GithubCorner__Container-sc-15lbmbx-1 ilzGAu"
-          href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+          href="https://github.com/lakshnocode/Reactjsshopping"
         >
           <svg
             aria-hidden="true"
@@ -217,7 +217,7 @@ Object {
                 data-icon="octicon-star"
                 data-show-count="true"
                 data-size="large"
-                href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+                href="https://github.com/lakshnocode/Reactjsshopping"
                 tabindex="-1"
               >
                 Star
@@ -276,7 +276,7 @@ Object {
       <a
         aria-label="View source on Github"
         class="GithubCorner__Container-sc-15lbmbx-1 ilzGAu"
-        href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+        href="https://github.com/lakshnocode/Reactjsshopping"
       >
         <svg
           aria-hidden="true"
@@ -474,7 +474,7 @@ Object {
               data-icon="octicon-star"
               data-show-count="true"
               data-size="large"
-              href="https://github.com/jeffersonRibeiro/react-shopping-cart"
+              href="https://github.com/lakshnocode/Reactjsshopping"
               tabindex="-1"
             >
               Star
